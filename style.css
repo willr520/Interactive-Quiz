@@ -1,0 +1,27 @@
+html {
+    font-family: 'Archivo', sans-serif;
+    background: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color:red;
+    text-decoration: none;
+}
+
+a:hover {
+    color:blue;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+.slidercontainer {
+    text-align: center;
+}

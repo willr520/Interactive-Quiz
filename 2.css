@@ -1,0 +1,15 @@
+body, html {
+    height: 100%;
+    width: 100%;
+  }
+
+  h1 {
+    font-family: 'Archivo', sans-serif;
+  }
+
+  .bottomtext {
+    text-align: right;
+    position: absolute;
+    bottom: 5px;
+    color: white;
+  }
